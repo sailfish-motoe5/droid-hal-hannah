@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device ocean
+%define device hannah
 %define vendor motorola
 
 %define vendor_pretty Motorola
-%define device_pretty moto g(7) power
+%define device_pretty moto e(5) plus
 
 %define droid_target_aarch64 1
 %define installable_zip 1
